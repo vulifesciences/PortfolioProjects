@@ -6,5 +6,6 @@ Each project posting will include descriptions for the project, the professional
 I wish you lots of success in finding, designing and carrying out an interesting project!
 
 ####**MAJOR PROJECT IDEAS**
-[transform your report into a publication](https://github.com/vulifesciences/PortfolioProjects/blob/master/peer-reviewed%20publication)
+
+[transform your report into a peer-reviewed publication](https://vulifesciences.github.io/peer-reviewed-publication/)
 

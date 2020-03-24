@@ -6,6 +6,7 @@ Each project posting should include a descriptions of the project and outline th
 I wish you lots of success in finding, designing and carrying out an interesting project!
 
 
+
 **PROJECT IDEA BOARD**
 
 - [transform your report into a peer-reviewed publication](https://vulifesciences.github.io/peer-reviewed-publication/)

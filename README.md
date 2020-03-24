@@ -1,8 +1,7 @@
-## Welcome to the course project repository
+## This is where you can find out about project ideas on offer for your portfolio submission.
+Project offers will be posted and updateed here regularly both by fellow students or locals in your scientific community who are looking for your collaboration. 
 
-Here is where you can find out more about project ideas for your final portfolio. 
-Project offers will be posted here regularly both by fellow students, teachers or locals in your scientific community. 
+Each project posting will include descriptions for the project, the professional skills you will develop, as well as how to demonstrate evidence of process and feedback throughout.
 
-The project posting will include suggestions for the project, potential expert mentors, and how to supply evidence of process and feedback throughout.
-
+I wish you lots of success in finding, designing and carrying out an interesting project!
 

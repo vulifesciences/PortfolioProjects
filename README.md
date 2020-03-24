@@ -1,11 +1,11 @@
-#### This is where you can find out about project ideas on offer for your portfolio submission.
-Project offers will be posted and updateed here regularly both by fellow students or locals in your scientific community who are looking for your collaboration. 
+#### This is where you can read more about portfolio project ideas.
+Project offers will be posted here and updated regularly both by fellow students in the course or locals in your scientific community, who might be looking for your input or collaboration. 
 
-Each project posting will include descriptions for the project, the professional skills you will develop, as well as how to demonstrate evidence of process and feedback throughout.
+Each project posting should include a descriptions of the project and outline the professional skills you will develop. It will also elaborate on how to demonstrate evidence of process and feedback.
 
 I wish you lots of success in finding, designing and carrying out an interesting project!
 
-####**MAJOR PROJECT IDEAS**
+####**PROJECT IDEA BOARD**
 
 [transform your report into a peer-reviewed publication](https://vulifesciences.github.io/peer-reviewed-publication/)
 
